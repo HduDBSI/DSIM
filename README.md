@@ -1,4 +1,4 @@
 # DSIM
-Code for Dynamic and Static Interest Mining for Sequential Recommendation 
+Code for \textbf{Dynamic and Static Interest Mining for Sequential Recommendation} 
 
 
