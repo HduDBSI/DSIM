@@ -1,5 +1,4 @@
 # DSIM
-Dynamic and Static Interest Mining for Sequential Recommendation  
-The code is coming soon!
+Code for Dynamic and Static Interest Mining for Sequential Recommendation 
 
 
